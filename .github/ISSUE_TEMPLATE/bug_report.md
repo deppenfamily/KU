@@ -10,6 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**When did you last experience the issue:**
+A date and time
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
